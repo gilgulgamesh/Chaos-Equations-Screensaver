@@ -1,0 +1,209 @@
+﻿  Main.cpp
+C:\Software\Chaos-Equations-master\Main.cpp(372,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Software\Chaos-Equations-master\Main.cpp(372,54): warning C4244:         with
+C:\Software\Chaos-Equations-master\Main.cpp(372,54): warning C4244:         [
+C:\Software\Chaos-Equations-master\Main.cpp(372,54): warning C4244:             T=float
+C:\Software\Chaos-Equations-master\Main.cpp(372,54): warning C4244:         ]
+C:\Software\Chaos-Equations-master\Main.cpp(372,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Software\Chaos-Equations-master\Main.cpp(372,44): warning C4244:         with
+C:\Software\Chaos-Equations-master\Main.cpp(372,44): warning C4244:         [
+C:\Software\Chaos-Equations-master\Main.cpp(372,44): warning C4244:             T=float
+C:\Software\Chaos-Equations-master\Main.cpp(372,44): warning C4244:         ]
+sfml-graphics-s-d.lib(RenderStates.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(RenderStates.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(BlendMode.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(BlendMode.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Transformable.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Transformable.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(RenderStates.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderStates.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Color.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Transformable.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Transformable.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Color.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Color.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Color.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Vertex.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Vertex.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexArray.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(VertexArray.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(VertexArray.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(VertexArray.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Shape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Shape.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Shape.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Font.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Font.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Font.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RectangleShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(RectangleShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(RectangleShape.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RectangleShape.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTarget.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(RenderTarget.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(RenderTarget.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderTarget.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderWindow.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(RenderWindow.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(RenderWindow.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderWindow.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Text.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Text.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Transform.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Transform.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Text.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Text.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Transform.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Transform.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Texture.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Texture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Texture.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Texture.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Image.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Image.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Image.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Image.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(View.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(View.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(View.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(View.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Shader.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Shader.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Shader.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Shader.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexBuffer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(VertexBuffer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(VertexBuffer.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(VertexBuffer.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(GLExtensions.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(GLExtensions.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(GLExtensions.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(GLExtensions.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(GLCheck.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(GLCheck.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(GLCheck.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(GLCheck.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderTextureImplFBO.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(TextureSaver.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(TextureSaver.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(ImageLoader.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(ImageLoader.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(ImageLoader.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(ImageLoader.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Glsl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-graphics-s-d.lib(Glsl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-graphics-s-d.lib(Glsl.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(Glsl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTextureImpl.obj) : warning LNK4099: PDB 'sfml-graphics-s.pdb' was not found with 'sfml-graphics-s-d.lib(RenderTextureImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-graphics-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(String.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-system-s-d.lib(String.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-system-s-d.lib(String.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(String.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Err.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-system-s-d.lib(Err.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-system-s-d.lib(Err.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Err.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Mutex.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Mutex.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Lock.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Lock.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(MutexImpl.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(MutexImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Keyboard.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(Keyboard.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(Keyboard.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Keyboard.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VideoMode.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(VideoMode.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(VideoMode.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(VideoMode.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowBase.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(WindowBase.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(WindowBase.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowBase.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Window.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(Window.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(Window.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Window.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Context.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Context.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(GlResource.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(GlResource.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(InputImpl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(InputImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(InputImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VideoModeImpl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(VideoModeImpl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(VideoModeImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(VideoModeImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Cursor.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Cursor.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImpl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(WindowImpl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(WindowImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(GlContext.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(GlContext.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(GlContext.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(GlContext.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(CursorImpl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(CursorImpl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(CursorImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(CursorImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickManager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(JoystickManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(JoystickManager.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(JoystickManager.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(SensorManager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(SensorManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(SensorManager.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(SensorManager.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImplWin32.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(WindowImplWin32.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(WindowImplWin32.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WindowImplWin32.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VulkanImplWin32.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(VulkanImplWin32.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(VulkanImplWin32.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(VulkanImplWin32.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WglContext.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(WglContext.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(WglContext.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(WglContext.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Joystick.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(Joystick.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(Joystick.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(Joystick.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickImpl.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Main.obj
+sfml-window-s-d.lib(JoystickImpl.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Main.obj
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(JoystickImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(SensorImpl.obj) : warning LNK4099: PDB 'sfml-window-s.pdb' was not found with 'sfml-window-s-d.lib(SensorImpl.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-window-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Time.obj) : error LNK2005: "class sf::Time __cdecl sf::seconds(float)" (?seconds@sf@@YA?AVTime@1@M@Z) already defined in sfml-system.lib(sfml-system-2.dll)
+sfml-system-s-d.lib(Time.obj) : error LNK2005: "class sf::Time __cdecl sf::milliseconds(int)" (?milliseconds@sf@@YA?AVTime@1@H@Z) already defined in sfml-system.lib(sfml-system-2.dll)
+sfml-system-s-d.lib(Time.obj) : error LNK2005: "bool __cdecl sf::operator!=(class sf::Time,class sf::Time)" (??9sf@@YA_NVTime@0@0@Z) already defined in sfml-system.lib(sfml-system-2.dll)
+sfml-system-s-d.lib(Time.obj) : error LNK2005: "bool __cdecl sf::operator>(class sf::Time,class sf::Time)" (??Osf@@YA_NVTime@0@0@Z) already defined in sfml-system.lib(sfml-system-2.dll)
+sfml-system-s-d.lib(Time.obj) : warning LNK4099: PDB 'sfml-system-s.pdb' was not found with 'sfml-system-s-d.lib(Time.obj)' or at 'C:\Software\Chaos-Equations-master\x64\Debug\sfml-system-s.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Time.obj) : error LNK2005: "class sf::Time __cdecl sf::operator-(class sf::Time,class sf::Time)" (??Gsf@@YA?AVTime@0@V10@0@Z) already defined in sfml-system.lib(sfml-system-2.dll)
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+sfml-window-s-d.lib(WindowImplWin32.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(VulkanImplWin32.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WglContext.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(JoystickImpl.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(VideoModeImpl.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WindowImpl.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(GlContext.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(JoystickManager.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-system-s-d.lib(String.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(VideoMode.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WindowBase.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(GLCheck.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(ImageLoader.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Glsl.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Text.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Texture.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Image.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Shader.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(VertexArray.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Shape.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(Font.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-graphics-s-d.lib(RenderTarget.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+sfml-window-s-d.lib(WindowImplWin32.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(VulkanImplWin32.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(WglContext.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(JoystickImpl.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(VideoModeImpl.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(WindowImpl.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(GlContext.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(JoystickManager.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-system-s-d.lib(String.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(VideoMode.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(WindowBase.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(GLCheck.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(RenderTextureImplFBO.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(ImageLoader.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(Glsl.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(Text.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(Texture.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(Image.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(Shader.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(VertexArray.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(Shape.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(Font.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-graphics-s-d.lib(RenderTarget.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+sfml-window-s-d.lib(Joystick.obj) : error LNK2019: unresolved external symbol __imp__calloc_dbg referenced in function "char * __cdecl std::_Maklocstr<char>(char const *,char *,struct _Cvtvec const &)" (??$_Maklocstr@D@std@@YAPEADPEBDPEADAEBU_Cvtvec@@@Z)
+sfml-window-s-d.lib(JoystickImpl.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(WindowImpl.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(JoystickManager.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(WindowImplWin32.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(WglContext.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(Keyboard.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(WindowBase.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(Window.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-window-s-d.lib(InputImpl.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-graphics-s-d.lib(RenderWindow.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-graphics-s-d.lib(Text.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-graphics-s-d.lib(Texture.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+sfml-system-s-d.lib(String.obj) : error LNK2001: unresolved external symbol __imp__calloc_dbg
+C:\Software\Chaos-Equations-master\x64\Debug\ChaosEquations.exe : fatal error LNK1120: 3 unresolved externals

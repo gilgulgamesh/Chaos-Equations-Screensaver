@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11723.231 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChaosEquations", "ChaosEquations.vcxproj", "{DA2F6264-3416-4D9F-BA8C-820157E76E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Debug|x64.ActiveCfg = Debug|x64
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Debug|x64.Build.0 = Debug|x64
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Debug|x86.Build.0 = Debug|Win32
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Release|x64.ActiveCfg = Release|x64
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Release|x64.Build.0 = Release|x64
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Release|x86.ActiveCfg = Release|Win32
+		{DA2F6264-3416-4D9F-BA8C-820157E76E22}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4477AF82-9392-4984-BA42-ABE108A4D55E}
+	EndGlobalSection
+EndGlobal
