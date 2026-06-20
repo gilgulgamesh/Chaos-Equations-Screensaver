@@ -2,6 +2,8 @@
 
 From HackerPoet's repo and youtube video 
 
+rename .exe to .scr and add to `the right folder`
+
 If you do just want me to expose more things, like iters or iter count, please do ask
 
 
